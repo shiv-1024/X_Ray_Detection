@@ -211,5 +211,13 @@ to be included in the repository.
     validation before any real-world medical use.
 
 ## Author
+**P Sivarajadurai**
 
-Add your name, GitHub profile, and project links here.
+B.Tech – Artificial Intelligence and Data Science
+
+### Connect with me
+
+* LinkedIn: [P Sivarajadurai](https://www.linkedin.com/in/sivarajadurai-p-33904b252/)
+* GitHub: [shiv-1024](https://github.com/shiv-1024)
+
+---
